@@ -1,9 +1,0 @@
-com\java\controller\Voice.class
-com\java\pojo\Rubbish.class
-com\java\service\impl\RubbishServiceImpl.class
-com\java\mapper\RubbishMapper.class
-com\java\pojo\Class.class
-com\java\service\RubbishService.class
-com\java\controller\Test.class
-com\java\pojo\AipSpeech.class
-com\java\controller\RubbishController.class
